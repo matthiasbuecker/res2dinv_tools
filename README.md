@@ -4,4 +4,4 @@ This repository contains Matlab scripts that help working with the different typ
 
 ## Scripts
 
-´inv2mod.m´
+`inv2mod.m` 
