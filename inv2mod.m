@@ -5,8 +5,9 @@
 % 2. Needs at least 9 rows of model blocks
 % 3. Inversion must have been carried out with refined model (i.e., two 
 %    model blocks between adjacent electrodes)
-% 4. Inversion must have been carried out with extended model (i.e., without
-%    larger side blocks
+% 4. Inversion must have been carried out with extended model (Inversion >
+%    Model discretization > Use extended model)
+%    larger side blocks)
 % 
 % Matthias Bucker, May 2019
 % Last update 16/07/2019
