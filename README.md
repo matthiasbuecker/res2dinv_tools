@@ -4,6 +4,5 @@ This repository contains Matlab scripts that help working with the different typ
 
 ## Scripts
 
-`inv2mod.m` converts the .INV file obtained from Res2dinv into a .MOD file for Res2dmod.
-
-`read_inv.m` reads the .INV file containing Res2Dinv inversion results.
+- `inv2mod.m` converts the .INV file obtained from Res2dinv into a .MOD file for Res2dmod.
+- `read_inv.m` reads the .INV file containing Res2Dinv inversion results.
